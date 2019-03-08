@@ -1,0 +1,2 @@
+docxtpl==0.5.15
+python-docx==0.8.6
